@@ -11,11 +11,11 @@ ABC->ARC
 - 閉包テーブル
 - セグメント木* 行列を乗せる
 - 遅延評価セグメント木 作用付きモノイド LlogN->logN
-- セグメント木に平衡二分木を載せる 反転 ２次元
+- セグメント木に平衡二分探索木を載せる 反転 ２次元
 - 永続データ構造
 - 全方位木DP
+- Binary Indexed Tree
 - 平衡二分探索木
-- 平衡二分木
 - 重み付きUnion Find
 - 永続Union-Find
 - Wavelet Matrix
@@ -26,7 +26,6 @@ ABC->ARC
 - サフィックス木
 - AVL木
 - 赤黒木
-- binary indexed treee
 - 正規表現
 - BTreeMap スキップリスト
 - Convex-Hull-Trick-Add-Monotone
