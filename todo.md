@@ -1,18 +1,37 @@
 ABC->ARC
-
+灰->茶->緑->水->青->黃->橙->赤
+灰->緑->水->青->紫->橙->赤
+D（アルゴリズム）F（黄色）
+sg 黄色 Codeforces薄橙or紫
+jo code橙
 # マクロ
+
+# 論文
+https://researchmap.jp/takiba/published_papers
+https://ei1333.github.io/luzhiled/
+https://blog.hamayanhamayan.com/archive/category/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0
+Minimum Feedback Vertex Setの乱択アルゴリズム
+https://xuzijian629.hatenablog.com/
 
 # データ構造/アルゴリズム
 - Array/Vec/VecDeque（両端キュー）/LinkedList/HashMap/BTreeMap/Hash(BTree)Set/BinaryHeap（優先度付きキュー）
-- 木
+- 累積和/動的計画法/バケット法/区間DP/ビット探索/木の重心分解/二部グラフ/輸送問題/最大クリーク/Dinic法 bitset
+- クラスカル法/素数判定法/べき乗/逆元/ナップザックDP/bit DP/最長増加部分列問題
+- 黄色 Grundy数/座標圧縮/半分全列挙/行列累乗/ダブリング/Rolling Hash/平方分割/最大流/最小カット/二部グラフ判定/二部マッチング/BIT/遅延セグメント
+- 木/木DPと全方位木DP/尺取法/グラフ分解/Dynamic Segment Tree
 - ヒープ
+- 最近共通祖先
 - union-find木*
 - 高速化union-find木*??
 - 閉包テーブル
+- https://blog.hamayanhamayan.com/entry/2017/10/14/125941
 - セグメント木* 行列を乗せる
 - 遅延評価セグメント木 作用付きモノイド LlogN->logN
+- バイトニックソート
 - セグメント木に平衡二分探索木を載せる 反転 ２次元
 - 永続データ構造
+- カタラン数
+- 尺取り法
 - 全方位木DP
 - Binary Indexed Tree
 - 平衡二分探索木
@@ -45,9 +64,9 @@ ABC->ARC
 - 並列二分探索
 - しゃくとり法
 - ダイクストラ* or ベルマンフォード
-- プリム or クラスカル*
-- ワーシャルフロイド
-- フォードファルカーソン
+- プリム（ダイクストラと同じ） or クラスカル*******
+- ワーシャルフロイド（最短経路）
+- フォードファルカーソン（停止しないかも）
 - 動的計画
 - 中国剰余 フェルマーの小定理
 - バケット法と平方分割
@@ -99,6 +118,8 @@ ABC->ARC
   - ジェネレータ
   - コルーチン
   - イテレータ
+  - 高階関数
+  - 第一級関数
 - ruby
 - rust
   - トレイト
